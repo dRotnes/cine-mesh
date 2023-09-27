@@ -1,0 +1,7 @@
+{
+  "name": "CineMesh",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
